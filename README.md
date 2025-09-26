@@ -24,15 +24,6 @@ By deploying it on **Azure Cloud Infrastructure**, this project focuses on:
 * ✅ Documentation of installation steps, troubleshooting, and dashboards
 
 
-## 🖼️ Project Architecture
-
-```
-Attacker(s) ---> Internet ---> Azure Cloud VM (Ubuntu)
-                               ├── Honeypot Services (T-Pot stack)
-                               ├── ELK Visualization (Kibana dashboards)
-                               └── Data Collection & Analysis
-```
-
 
 ## 📖 Documentation & Guide
 
@@ -51,9 +42,11 @@ For a **step-by-step guide, screenshots, and detailed documentation**, check out
 
 
 
-## 📊 Sample Dashboard (ELK)
+## 📊 Sample Dashboard (T-pot)
 
-*(Insert a screenshot from your Kibana dashboard here to make it visually appealing)*
+![T-Pot Kibana Dashboard](dashboard.png)
+
+![T-Pot AttackMap Dashboard](attackmap.png)
 
 
 
