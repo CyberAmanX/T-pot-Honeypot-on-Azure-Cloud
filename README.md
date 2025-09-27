@@ -4,8 +4,6 @@
 
 This project demonstrates the deployment and configuration of **[T-Pot Honeypot](https://github.com/telekom-security/tpotce)** on an **Azure Cloud Virtual Machine**.
 
-T-Pot is a **multi-honeypot platform** integrating several honeypot technologies (e.g., Cowrie, Dionaea, Elastihoney, etc.) into a single environment. It provides researchers, defenders, and cybersecurity learners with real-world attack data and insights.
-
 By deploying it on **Azure Cloud Infrastructure**, this project focuses on:
 
 * 📊 Collecting live attack telemetry
