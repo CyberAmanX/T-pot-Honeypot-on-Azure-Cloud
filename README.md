@@ -1,6 +1,3 @@
-#  T-Pot Honeypot Deployment on Azure VM
-
-
 ![T-Pot Wallpaper](tpot.png)
 
 ## 📌 Project Overview
