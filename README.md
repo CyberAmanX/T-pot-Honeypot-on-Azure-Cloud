@@ -1,5 +1,8 @@
 #  T-Pot Honeypot Deployment on Azure VM
 
+
+![T-Pot Wallpaper](tpot.png)
+
 ## 📌 Project Overview
 
 This project demonstrates the deployment and configuration of **[T-Pot Honeypot](https://github.com/telekom-security/tpotce)** on an **Azure Cloud Virtual Machine**.
